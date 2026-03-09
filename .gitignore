@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.env
+.venv/
+venv/
+data/tei_xml/
+data/results/
+outputs/
+.DS_Store
