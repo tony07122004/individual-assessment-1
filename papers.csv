@@ -1,11 +1,11 @@
 id,title,source_url,filename
-paper01,Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks,https://arxiv.org/pdf/2005.11401
-paper02,A Survey on Evaluation of Large Language Models,https://arxiv.org/pdf/2307.03109
-paper03,Evaluating Large Language Models: A Comprehensive Survey,https://arxiv.org/pdf/2310.19736
-paper04,A Survey on Multimodal Large Language Models,https://arxiv.org/pdf/2306.13549
-paper05,Large Language Models: A Survey,https://arxiv.org/pdf/2402.06196
-paper06,Understanding the Planning of LLM Agents: A Survey,https://arxiv.org/pdf/2402.02716
-paper07,Large Language Model based Multi-Agents: A Survey,https://arxiv.org/pdf/2402.01680
-paper08,Retrieval-Augmented Generation for Large Language Models: A Survey,https://arxiv.org/pdf/2312.10997
-paper09,A Survey on Retrieval-Augmented Text Generation for Large Language Models,https://arxiv.org/pdf/2404.10981
-paper10,A Survey on Large Language Models for Code Generation,https://arxiv.org/pdf/2406.00515
+paper01,Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks,https://arxiv.org/pdf/2005.11401,paper01.pdf
+paper02,A Survey on Evaluation of Large Language Models,https://arxiv.org/pdf/2307.03109,paper02.pdf
+paper03,Evaluating Large Language Models: A Comprehensive Survey,https://arxiv.org/pdf/2310.19736,paper03.pdf
+paper04,A Survey on Multimodal Large Language Models,https://arxiv.org/pdf/2306.13549,paper04.pdf
+paper05,Large Language Models: A Survey,https://arxiv.org/pdf/2402.06196,paper05.pdf
+paper06,Understanding the Planning of LLM Agents: A Survey,https://arxiv.org/pdf/2402.02716,paper06.pdf
+paper07,Large Language Model based Multi-Agents: A Survey,https://arxiv.org/pdf/2402.01680,paper07.pdf
+paper08,Retrieval-Augmented Generation for Large Language Models: A Survey,https://arxiv.org/pdf/2312.10997,paper08.pdf
+paper09,A Survey on Retrieval-Augmented Text Generation for Large Language Models,https://arxiv.org/pdf/2404.10981,paper09.pdf
+paper10,A Survey on Large Language Models for Code Generation,https://arxiv.org/pdf/2406.00515,paper10.pdf
